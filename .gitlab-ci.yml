@@ -1,0 +1,14 @@
+image: cheslaav/maven-jdk11-chrome:latest
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script:
+    - mvn compile
+
+test:
+  stage: test
+  script:
+    - mvn clean test

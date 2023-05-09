@@ -1,0 +1,22 @@
+{
+  "description": "{{description}}",
+  "name": "{{name}}",
+  "share": true,
+  "updateWidgets": [
+    {
+      "share": true,
+      "widgetId": 0,
+      "widgetName": "string",
+      "widgetOptions": {},
+      "widgetPosition": {
+        "positionX": 0,
+        "positionY": 0
+      },
+      "widgetSize": {
+        "height": 0,
+        "width": 0
+      },
+      "widgetType": "string"
+    }
+  ]
+}

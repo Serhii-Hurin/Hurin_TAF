@@ -1,0 +1,16 @@
+{
+  "contentParameters": {
+    "contentFields": [
+      "statistics$executions$total"
+    ],
+    "itemsCount": 55,
+    "widgetOptions": {}
+  },
+  "description": "{{description}}",
+  "filterIds": [
+    1
+  ],
+  "name": "{{name}}",
+  "share": true,
+  "widgetType": "oldLineChart"
+}
